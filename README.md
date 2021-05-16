@@ -27,39 +27,39 @@ Os relatórios poderão ser filtrados por intervalo de tempo e cliente.
 
 Execução do projeto:
 
-#### Back-end 
+#### Back-end: 
 Pré-requisitos: Visual Studio Code e Node.js/NPM (https://www.npmjs.com/get-npm)
 
-#### Front-end (WEB) 
+#### Front-end (WEB): 
 Pré-requisitos: Navegador Web
 
-#### Clonar o Repositório 
+#### Clonar o Repositório: 
 Git clone: https://github.com/lucascatarino/Desafio-de-Programacao-Academia-Capgemini.git 
 
-#### Instalar Dependências
+#### Instalar Dependências:
 ```
 npm install
 ```
-#### Executar o Projeto
+#### Executar o Projeto:
 ```
 cd src
 node index.js
 ```
-#### Acessando Frot-end da Aplicação
+#### Acessando Frot-end da Aplicação:
 http://localhost:8080
 
 
 ### Tecnologias Utilizadas
 
-#### Back-end
+#### Back-end:
  - JavaScript
  - NodeJs
 
-#### Front-end
+#### Front-end:
  - HTML / CSS
  - EJS
 
-#### Banco de dados
+#### Banco de dados:
  - Sqlite
 
 
