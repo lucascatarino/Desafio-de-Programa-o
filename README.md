@@ -34,7 +34,7 @@ Pré-requisitos: Visual Studio Code e Node.js e NPM (https://www.npmjs.com/get-n
 Pré-requisitos: Navegador Web
 
 #### Clonar o Repositório 
-Git clone:  
+Git clone: https://github.com/lucascatarino/Desafio-de-Programacao-Academia-Capgemini.git 
 
 #### Instalar Dependências
 ```
@@ -64,7 +64,11 @@ Sqlite
 
 
 ## Observações
-Projeto incompleto, não consegui evoluir para conclusão. 
+Projeto incompleto, não consegui evoluir para conclusão. Também, não consegui configurar o Git Bash para enviar os arquivos ao meu repositório no formato padrão. Por isso, segue os  mesmos compactados via .rar (ZIP). 
+
+Informo também, que segue anexo como calculadora.js da 1ª Parte do Desafio, pois os e-mails (gmail.com e outlook.com.br) estavam bloqueando essa extensão de arquivo (.js).
+
+
 
 
 
