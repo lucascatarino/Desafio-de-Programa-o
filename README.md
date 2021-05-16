@@ -52,15 +52,15 @@ http://localhost:8080
 ### Tecnologias Utilizadas
 
 #### Back-end
-JavaScript
-NodeJs
+ - JavaScript
+ - NodeJs
 
 #### Front-end
-HTML / CSS
-EJS
+ - HTML / CSS
+ - EJS
 
 #### Banco de dados
-Sqlite
+ - Sqlite
 
 
 ## Observações
