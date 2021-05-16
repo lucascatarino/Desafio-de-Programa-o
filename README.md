@@ -28,7 +28,7 @@ Os relatórios poderão ser filtrados por intervalo de tempo e cliente.
 Execução do projeto:
 
 #### Back-end 
-Pré-requisitos: Visual Studio Code e Node.js e NPM (https://www.npmjs.com/get-npm)
+Pré-requisitos: Visual Studio Code e Node.js/NPM (https://www.npmjs.com/get-npm)
 
 #### Front-end (WEB) 
 Pré-requisitos: Navegador Web
