@@ -64,7 +64,7 @@ http://localhost:8080
 
 
 ## Observações
-Projeto incompleto, não consegui evoluir para conclusão. Também, não consegui configurar o Git Bash para enviar os arquivos ao meu repositório no formato padrão. Por isso, segue os  mesmos compactados via .rar (ZIP). 
+Projeto incompleto, não consegui evoluir para conclusão. Também, não consegui configurar o Git Bash para enviar os arquivos ao meu repositório no formato padrão. Por isso, segue os  mesmos compactados via .rar e .zip. 
 
 Informo também, que segue anexo como calculadora.js o arquivo da 1ª Parte do Desafio, pois os e-mails (gmail.com e outlook.com.br) estavam bloqueando essa extensão de arquivo (.js).
 
